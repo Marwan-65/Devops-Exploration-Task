@@ -45,7 +45,7 @@ Terraform is a software tool for IaC that allows infrastructure to be defined an
 
 - **Jenkins X:** it is a comprehensive and powerful open-source cloud-native solution that automates the CI/CD and testing workflows for applications on Kubernetes. The solution uses DevOps best practices automation and tooling to improve speed and workflows. <sup>[7]</sup>
 
-- **CodeFresh:** it is an independent Continuous Delivery tool powered by Argo. The wraparound solution CodeFresh created serves to manage new and existing Argo instances for increased visibility and security. It offers users a way to use ArgoCD with enhanced enterprise-grade controls and visibility. CodeFresh offers security, centralized management, and audit trails for compliance.<sup>[8]</sup>
+- **CodeFresh:** it is an independent Continuous Delivery tool powered by Argo. The wraparound solution CodeFresh created serves to manage new and existing Argo instances for increased visibility and security. It offers users a way to use ArgoCD with enhanced enterprise-grade controls and visibility. CodeFresh offers security, centralized management, and audit trails for compliance.<sup>[8]</sup> 
 
 
 # References
